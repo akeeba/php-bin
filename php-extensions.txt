@@ -1,1 +1,1 @@
-bz2,curl,filter,ftp,iconv,intl,mbstring,opcache,openssl,pdo_sqlite,phar,simplexml,sodium,ssh2,zip,zlib
+bz2,curl,filter,ftp,iconv,mbstring,opcache,openssl,pdo_sqlite,phar,simplexml,sodium,ssh2,zip,zlib
