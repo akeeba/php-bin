@@ -1,16 +1,16 @@
 [
     "pkg-config",
     "lib-base",
+    "bzip2",
     "micro",
     "php",
-    "bzip2",
     "zlib",
     "openssl",
+    "libssh2",
     "libiconv",
     "libxml2",
     "curl",
-    "libpng",
-    "onig",
     "sqlite",
+    "libsodium",
     "libzip"
 ]
