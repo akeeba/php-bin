@@ -5,6 +5,7 @@
     "curl",
     "filter",
     "ftp",
+    "ffi",
     "iconv",
     "mbstring",
     "opcache",
