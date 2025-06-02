@@ -10,6 +10,7 @@
     "libiconv",
     "libxml2",
     "curl",
+    "libffi",
     "sqlite",
     "libsodium",
     "libzip"
